@@ -1,9 +1,9 @@
 ## Hi there 👋
-My name is BaekHoKang <br>
+My name is BaekHo Kang <br>
 Backend.dev
-- ⚡ Programming Languages I Know
-      C, C++, JavaScript, TypeScript, Java, Solidity
-- ⚡ Programming Languages I Want to Learn
+- ⚡ Programming Languages I Know <br>
+      C, C++, JavaScript, TypeScript, Java, Solidity 
+- ⚡ Programming Languages I Want to Learn <br>
       GO
-- ⚡ Frameworks I Know
+- ⚡ Frameworks I Know <br>
       Express, Nest.js
