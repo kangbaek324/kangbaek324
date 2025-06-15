@@ -19,7 +19,7 @@ My name is BaekHo Kang <br>
 </pre>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kangbaek324/kangbaek324/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kangbaek324/kangbaek324/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kangbaek324/kangbaek324/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://kangbaek324.github.io/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://kangbaek324.github.io/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://kangbaek324.github.io/github-contribution-grid-snake.svg">
 </picture>
