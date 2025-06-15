@@ -18,4 +18,4 @@ My name is BaekHo Kang <br>
       SQLD
 </pre>
 
-<img src="https://github.com/kangbaek324/kangbaek324/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/kangbaek324/kangbaek324/blob/output/github-contribution-grid-snake-dark.svg"/>
