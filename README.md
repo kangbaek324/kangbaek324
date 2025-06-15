@@ -18,9 +18,4 @@ My name is BaekHo Kang <br>
       SQLD
 </pre>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://kangbaek324.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://kangbaek324.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://kangbaek324.github.io/github-contribution-grid-snake.svg">
-</picture>
-
+<img src="https://github.com/kangbaek324/kangbaek324/blob/output/github-contribution-grid-snake.svg"/>
