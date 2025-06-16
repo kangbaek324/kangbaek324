@@ -16,6 +16,7 @@ My name is BaekHo Kang <br>
 - ⚡ license 
       정보처리기능사
       SQLD
+      
 - ⚡ connect 
       Discord baekho_08
 <img src="https://github.com/kangbaek324/kangbaek324/blob/output/github-contribution-grid-snake-dark.svg"/>
