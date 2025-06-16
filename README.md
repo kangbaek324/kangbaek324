@@ -17,7 +17,8 @@ My name is BaekHo Kang <br>
       정보처리기능사
       SQLD
       
-- ⚡ connect 
+- ⚡ connect
+      Email kbh081004@gmail.com
       Discord baekho_08
 <img src="https://github.com/kangbaek324/kangbaek324/blob/output/github-contribution-grid-snake-dark.svg"/>
 </pre>
