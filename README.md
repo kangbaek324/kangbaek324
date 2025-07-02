@@ -17,6 +17,11 @@ My name is BaekHo Kang <br>
       정보처리기능사
       SQLD
       
+- ⚡ award
+      의성 해커그라운드 해커톤 장려상
+      경북소프트웨어고등학교(교내) 포트폴리오 대회 금상 (1등)
+      경북소프트웨어고등학교(교내) 해커톤 최우수상
+      
 - ⚡ connect
       Email kbh081004@gmail.com
       Discord baekho_08
