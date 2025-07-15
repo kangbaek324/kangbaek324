@@ -5,7 +5,7 @@ My name is BaekHo Kang <br>
 ## BlockChain.dev
 
 - ⚡ Programming Languages I Know
-      C, C++, JavaScript, TypeScript, Java, Solidity 
+      JavaScript, TypeScript, Java, Solidity 
       
 - ⚡ Programming Languages I Want to Learn
       Go, Rust
