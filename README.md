@@ -2,7 +2,7 @@
 My name is BaekHo Kang <br>
 <pre>
 ## Backend.dev
-## BlockChain.dev
+## Web3, BlockChain.dev
 
 - ⚡ Programming Languages I Know
       JavaScript, TypeScript, Java, Solidity 
