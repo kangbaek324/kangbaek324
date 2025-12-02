@@ -11,7 +11,7 @@ My name is BaekHo Kang <br>
       Go, Rust
       
 - ⚡ Frameworks I Know
-      Express, Nest.JS, React.JS
+      Express, Nest.JS, Spring Boot, React.JS
 
 - ⚡ license 
       정보처리기능사
