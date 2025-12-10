@@ -28,6 +28,6 @@ My name is BaekHo Kang <br>
 - ⚡ contact
       Email kbh081004@gmail.com
       Discord baekho_08
-<img src="https://github.com/kangbaek324/kangbaek324/blob/output/github-contribution-grid-snake-dark.svg"/>
 </pre>
 
+<img src="https://discord.c99.nl/widget/theme-2/682043496793767940.png"/>
