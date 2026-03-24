@@ -13,7 +13,8 @@ My name is BaekHo Kang <br>
 - ⚡ Frameworks I Know
       Express, Nest.JS, Spring Boot, React.JS
 
-- ⚡ license 
+- ⚡ license
+      정보처리산업기사
       정보처리기능사
       SQLD
       
