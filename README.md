@@ -13,7 +13,7 @@ const learning = ["Go", "Rust"];
 // ⚡ Frameworks I know
 const frameworks = ["Express", "NestJS", "Spring Boot", "React.js"];
 
-// ⚡ License
+// ⚡ Licenses
 const licenses = [
   "정보저리산업기사 (26251160047F)",
   "프로그래밍기능사 (25401250452S)",
