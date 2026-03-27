@@ -1,34 +1,38 @@
-## Hi there 👋
-My name is BaekHo Kang <br>
-<pre>
-## Backend.dev
-## Web3, BlockChain.dev
+## Hi there 👋 My name is BaekHo Kang
 
-- ⚡ Programming Languages I Know
-      JavaScript, TypeScript, Java, Solidity 
-      
-- ⚡ Programming Languages I Want to Learn
-      Go, Rust
-      
-- ⚡ Frameworks I Know
-      Express, Nest.JS, Spring Boot, React.JS
+```js
+# Backend.dev / Web3 & Blockchain.dev
 
-- ⚡ license
-      정보처리산업기사
-      정보처리기능사
-      SQLD
-      
-- ⚡ award
-      의성 해커그라운드 해커톤 장려상
-      경북소프트웨어고등학교(교내) 포트폴리오 대회 금상 (1등)
-      경북소프트웨어고등학교(교내) 해커톤 최우수상
-      
-- ⚡ blog
-      https://blog.naver.com/kangbaekho324
-      
-- ⚡ contact
-      Email kbh081004@gmail.com
-      Discord baekho_08
-</pre>
+// ⚡ Languages I know
+const languages = ["JavaScript", "TypeScript", "Java", "Solidity"];
+
+// ⚡ Languages I want to learn
+const learning = ["Go", "Rust"];
+
+// ⚡ Frameworks I know
+const frameworks = ["Express", "NestJS", "Spring Boot", "React.js"];
+
+// ⚡ License
+const licenses = [
+  "정보저리산업기사 (26251160047F)",
+  "프로그래밍기능사 (25401250452S)",
+  "SQLD (SQLD-056017786)",
+];
+
+// ⚡ Awards
+const awards = [
+  { rank: 1,   title: "2025 5th SW-AI Talent Dev Project — Excellence Award" },
+  { rank: 1,   title: "GS High School Portfolio Competition — Gold Award"    },
+  { rank: 2,   title: "GS High School Hackathon — Excellence Award"          },
+  { rank: "🎖", title: "Uiseong HackerGround Hackathon — Encouragement Award" },
+];
+
+// ⚡ Contact
+const contact = {
+  email:   "kbh081004@gmail.com",
+  blog:    "https://blog.naver.com/kangbaekho324",
+  discord: "baekho_08",
+};
+```
 
 <img src="https://discord.c99.nl/widget/theme-2/682043496793767940.png"/>
