@@ -23,8 +23,8 @@ const licenses = [
 // ⚡ Awards
 const awards = [
   { rank: 1,   title: "2025 5th SW-AI Talent Dev Project — Excellence Award" },
-  { rank: 1,   title: "GS High School Portfolio Competition — Gold Award"    },
-  { rank: 2,   title: "GS High School Hackathon — Excellence Award"          },
+  { rank: 1,   title: "GBSW High School Portfolio Competition — Gold Award"    },
+  { rank: 2,   title: "GBSW High School Hackathon — Excellence Award"          },
   { rank: "🎖", title: "Uiseong HackerGround Hackathon — Encouragement Award" },
 ];
 
