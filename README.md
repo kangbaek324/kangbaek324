@@ -2,7 +2,7 @@
 My name is BaekHo Kang
 
 ```js
-# Backend.dev / Web3 & Blockchain.dev
+# Blockchain.dev
 
 // ⚡ Languages I know
 const languages = ["JavaScript", "TypeScript", "Java", "Solidity"];
