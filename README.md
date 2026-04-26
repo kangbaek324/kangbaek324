@@ -3,6 +3,7 @@ My name is BaekHo Kang
 
 ```js
 # Blockchain.dev
+# Backend.dev
 
 const languages = ["TypeScript", "Java", "Go", "Solidity"];
 const frameworks = ["Express", "NestJS", "Spring Boot", "React.js"];
@@ -19,4 +20,4 @@ const contact = {
   discord: "baekho_08",
 };
 ```
-<img src="https://discord.c99.nl/widget/theme-2/682043496793767940.png"/>
+<!-- <img src="https://discord.c99.nl/widget/theme-2/682043496793767940.png"/> -->
