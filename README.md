@@ -6,7 +6,7 @@ My name is BaekHo Kang
 # Backend.dev
 
 const languages = ["TypeScript", "Java", "Go", "Solidity"];
-const frameworks = ["Express", "NestJS", "Spring Boot", "React.js"];
+const frameworks = ["Express", "NestJS", "Spring Boot", "ReactJs"];
 
 const licenses = [
   "정보저리산업기사 (26251160047F)",
